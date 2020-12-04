@@ -1,5 +1,5 @@
-# batch-serverless-montecarlo
-Sample Azure Batch using Azure Functions to drive Monte Carlo Simulations
+# Azure Batch with Functions
+Sample Azure Batch using Azure Functions to drive Monte Carlo Simulations using Java as the driver and Python for the simulations that get run on Batch.
 
 ## Getting started
 
